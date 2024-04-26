@@ -10,3 +10,6 @@ Column Reordering: Supports reordering of columns.
 Visual Styling: Adjustable text alignment, border visibility, and color.
 Clear Data Presentation: Presents structured data effectively.
 
+## 🔗 Links
+
+[Demo](https://codepen.io/jjad14/pen/JjVmGmr?editors=1011)
